@@ -9,7 +9,7 @@ My name is Gia Bao. I am a Student in Computer Science at FPT University-VietNam
 [🧑‍💻🧑‍💻Discuss algorithms with me.](https://leetcode.com/GiaBaorr/) 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaorr&theme=nightowl&langs_count=4&layout=compact)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaorr&theme=nightowl&langs_count=4&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaorr&theme=nightowl&langs_count=4&layout=compact&hide=SCSS,TSQL,HTML,CSS))
 
 ![My github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GiaBaorr&show_icons=true&theme=synthwave&hide=contribs,prs,issues)
 
