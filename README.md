@@ -16,4 +16,4 @@ I'm currently focused on becoming a full-stack developer. I use Spring Boot and 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiaBaorr&repo=Lofimusic&theme=solarized-light)](https://github.com/GiaBaorr/Lofimusic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiaBaorr&repo=quote-and-dictionary&theme=flag-india)](https://github.com/GiaBaorr/quote-and-dictionary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiaBaorr&repo=FPTU-Archive-Git&theme=tokyonight)](https://github.com/GiaBaorr/FPTU-Archive-Git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiaBaorr&repo=FPTU-Archive-Git&theme=gruvbox)](https://github.com/GiaBaorr/FPTU-Archive-Git)
