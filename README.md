@@ -1,5 +1,6 @@
 ### WELCOME TO MY GITHUB 👋👋👋
 My name is Gia Bao. I am a Student in Computer Science at FPT University-VietNam, majoring in Software Engineering. I am interested in the following topics: Website and Software Development, Algorithm and AI relative topics. <br>
+I'm currently focused on becoming a full-stack developer. I use Spring Boot and Angular for my projects. All repositories in my profile are solely for educational purposes. Feel free to contact me if you think I could be of assistance. 🌟🌟🌟
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/b%E1%BA%A3o-gia-773646223/) 
