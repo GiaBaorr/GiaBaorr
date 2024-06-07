@@ -3,7 +3,7 @@ My name is Gia Bao. I am a Student in Computer Science at FPT University-VietNam
 I'm currently focused on becoming a full-stack developer. I use Spring Boot and Angular for my projects. All repositories in my profile are solely for educational purposes. Feel free to contact me if you think I could be of assistance. 🌟🌟🌟
 
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/b%E1%BA%A3o-gia-773646223/) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/giabaor/) 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/GiaBaorr) 
 [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/@GiaBaorr/videos)
 <br>
